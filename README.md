@@ -1,4 +1,3 @@
-# sistema-gestao-administrativa
 # 📊 Sistema de Gestão Administrativa e Controle Documental (Excel)
 
 ### 1. Painel Gerencial e Indicadores
